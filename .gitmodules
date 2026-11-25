@@ -1,0 +1,3 @@
+[submodule "submodule/MATLAB_SAR"]
+	path = submodule/MATLAB_SAR
+	url = https://github.com/ngageoint/MATLAB_SAR
