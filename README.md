@@ -12,5 +12,5 @@ Implements a SAR image formation pipeline using backprojection.
 Before using the `MATLAB_SAR` toolbox, you must run
 
 ```bash
-git submodule update --init --recursive submodule
+git submodule update --init --recursive submodules
 ```
